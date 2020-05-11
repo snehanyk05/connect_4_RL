@@ -1,7 +1,6 @@
 import pygame
 import random
 import argparse
-from connect_four import *
 from human_player import *
 from connectfour_agent import *
 
