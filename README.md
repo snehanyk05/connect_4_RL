@@ -4,7 +4,7 @@ played.
 
 STEPS TO EXECUTE:
 
-1. The language that was used for this assignment is python3.
+1. The language that was used for this project is python3.
 
 2. Pygame was used for the GUI.
 
